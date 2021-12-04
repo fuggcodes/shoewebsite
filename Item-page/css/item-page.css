@@ -2216,7 +2216,7 @@ Version:1.0
 }
 .shop .single-shorter label {
 	display: inline-block;
-	float: left;
+	float:left;
 	margin: 4px 5px 0 0;
 	font-weight:500;
 }
