@@ -17,7 +17,7 @@
 
 - https://ndefected15.github.io/shoewebsite/
 
-![alt text](https://github.com/Ndefected15/WorkDayScheduler/blob/main/assets/images/screenshot.png?raw=true)
+![alt text](https://github.com/Ndefected15/shoewebsite/blob/main/assets/images/screenshot.png?raw=true)
 
 ## Contribution
 
