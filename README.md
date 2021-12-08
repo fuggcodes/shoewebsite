@@ -17,7 +17,7 @@
 
 - https://ndefected15.github.io/shoewebsite/
 
-![alt text](https://github.com/Ndefected15/shoewebsite/blob/main/Develop/screenshot.jpg?raw=true)
+
 
 ## Contribution
 
